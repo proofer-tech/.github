@@ -1,7 +1,3 @@
-```#DORA Metrics / #SPACE Framework / #DevEx Framework```
+<img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"/> <img src="https://img.shields.io/website-up-down-green-red/https/proofer.tech"/>
 
-# 정확한 개발자 성과측정을 위한 엔지니어링 매니징 파트너
-
-실리콘밸리에서 여러차례 검증된 방법으로 개발자들의 성과평가를 위한 인사이트를 제공합니다.
-
-무료 상담을 통한 자세한 온보딩과 14일 무료 평가판으로 높은 성과를 향한 여정을 시작해보세요.
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
